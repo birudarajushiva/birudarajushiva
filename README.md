@@ -10,7 +10,7 @@ I build interactive software, AI-assisted tools, and hardware projects. My inter
 ### [CircuitPython Pin Audit](https://github.com/birudarajushiva/circuitpython-pin-audit) · developer tooling
 A Python command-line tool that finds potential overlapping pin allocations before firmware is uploaded. Tracks explicit resource lifetimes and branch-local ownership, and produces JSON or GitHub Actions annotations without executing firmware.
 
-**Look for:** a real HackPad bug as the motivating case, regression tests, cross-platform CI, installable packaging, and explicit analysis limits. MIT licensed; no model API or runtime dependencies.
+**Look for:** a real HackPad bug as the motivating case, regression tests, cross-platform CI, installable packaging, and explicit analysis limits. MIT licensed; no model API or runtime dependencies. A [reusable GitHub Action](https://github.com/birudarajushiva/circuitpython-pin-audit-action) adds pinned installation, strict coverage checks, source annotations, and saved JSON reports.
 
 ### Morf · conversational 3D design
 Explore physical assemblies, ask how parts work, and review proposed changes alongside source references and supported geometry checks. Built with TypeScript, Next.js, React, Three.js, and server-side Gemini integration.
