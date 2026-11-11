@@ -37,6 +37,10 @@ An eight-key macropad design with a rotary encoder and OLED, created for Hack Cl
 
 **Look for:** the path from electronics and enclosure design to firmware. The prototype has documented pin-allocation and HID issues requiring hardware validation.
 
+## Open-source work
+
+- **Circup:** [Fix irregular package names for IDE stub installation](https://github.com/adafruit/circup/pull/288). Addresses an existing reported bug with regression tests. **Open PR; awaiting maintainer review.**
+
 ## What I care about
 
 - **Software engineering:** clear contracts, reproducible setup, inspectable state, and useful tests.
