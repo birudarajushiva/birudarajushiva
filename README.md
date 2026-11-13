@@ -12,6 +12,8 @@ A Python command-line tool that finds potential overlapping pin allocations befo
 
 **Look for:** a real HackPad bug as the motivating case, regression tests, cross-platform CI, installable packaging, and explicit analysis limits. MIT licensed; no model API or runtime dependencies. A [reusable GitHub Action](https://github.com/birudarajushiva/circuitpython-pin-audit-action) adds pinned installation, strict coverage checks, source annotations, and saved JSON reports.
 
+Listed in [Awesome CircuitPython](https://github.com/adafruit/awesome-circuitpython#frameworks) through a [merged resource submission](https://github.com/adafruit/awesome-circuitpython/pull/64).
+
 ### Morf · conversational 3D design
 Explore physical assemblies, ask how parts work, and review proposed changes alongside source references and supported geometry checks. Built with TypeScript, Next.js, React, Three.js, and server-side Gemini integration.
 
@@ -40,6 +42,7 @@ An eight-key macropad design with a rotary encoder and OLED, created for Hack Cl
 ## Open-source work
 
 - **Circup:** [Fix irregular package names for IDE stub installation](https://github.com/adafruit/circup/pull/288). Addresses an existing reported bug with regression tests. **Open PR; awaiting maintainer review.**
+- **Circup:** [Improve help and discovery for example commands](https://github.com/adafruit/circup/pull/289). Adds guidance for empty and unknown example names, with CLI regression tests. **Open PR; awaiting maintainer review.**
 
 ## What I care about
 
