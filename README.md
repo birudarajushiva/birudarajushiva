@@ -12,7 +12,7 @@ A Python command-line tool that finds potential overlapping pin allocations befo
 
 **Look for:** a real HackPad bug as the motivating case, regression tests, cross-platform CI, installable packaging, and explicit analysis limits. MIT licensed; no model API or runtime dependencies. A [reusable GitHub Action](https://github.com/birudarajushiva/circuitpython-pin-audit-action) adds pinned installation, strict coverage checks, source annotations, and saved JSON reports.
 
-Listed in [Awesome CircuitPython](https://github.com/adafruit/awesome-circuitpython#frameworks) through a [merged resource submission](https://github.com/adafruit/awesome-circuitpython/pull/64).
+Listed in [Awesome CircuitPython](https://github.com/adafruit/awesome-circuitpython#frameworks) and featured in Adafruit's [Python on Microcontrollers newsletter](https://blog.adafruit.com/?p=670475).
 
 ### Morf · conversational 3D design
 Explore physical assemblies, ask how parts work, and review proposed changes alongside source references and supported geometry checks. Built with TypeScript, Next.js, React, Three.js, and server-side Gemini integration.
