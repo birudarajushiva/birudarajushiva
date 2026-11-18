@@ -41,8 +41,8 @@ An eight-key macropad design with a rotary encoder and OLED, created for Hack Cl
 
 ## Open-source work
 
+- **Circup:** [Improve help and discovery for example commands](https://github.com/adafruit/circup/pull/289). Shows usage when no example is supplied and points users to listing and search when a name is unknown. **Merged upstream.**
 - **Circup:** [Fix irregular package names for IDE stub installation](https://github.com/adafruit/circup/pull/288). Addresses an existing reported bug with regression tests. **Open PR; awaiting maintainer review.**
-- **Circup:** [Improve help and discovery for example commands](https://github.com/adafruit/circup/pull/289). Adds guidance for empty and unknown example names, with CLI regression tests. **Open PR; awaiting maintainer review.**
 
 ## What I care about
 
